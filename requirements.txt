@@ -1,0 +1,5 @@
+watchdog>=2.1.6
+yara-python>=4.2.0
+requests>=2.26.0
+python-magic>=0.4.24
+click>=8.0.3

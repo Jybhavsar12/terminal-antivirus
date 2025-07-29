@@ -1,0 +1,32 @@
+{
+    "md5": [
+        "44d88612fea8a8f36de82e1278abb02f",
+        "d41d8cd98f00b204e9800998ecf8427e",
+        "098f6bcd4621d373cade4e832627b4f6",
+        "5d41402abc4b2a76b9719d911017c592",
+        "7d793037a0760186574b0282f2f435e7"
+    ],
+    "sha256": [
+        "275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0f",
+        "031cbcb0bf8e0a26c0f7a6e4a6a9d6b2b4f4e6a9d6b2b4f4e6a9d6b2b4f4e6a",
+        "a591a6d40bf420404a011733cfb7b190d62c65bf0bcda32b57b277d9ad9f146e"
+    ],
+    "yara_rules": [
+        "eicar_test",
+        "pe_file",
+        "office_macro"
+    ],
+    "file_names": [
+        "eicar.com.txt",
+        "virus.exe",
+        "malware.dll",
+        "trojan.bat"
+    ],
+    "file_extensions": [
+        ".exe",
+        ".dll",
+        ".bat",
+        ".vbs",
+        ".js"
+    ]
+}

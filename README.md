@@ -33,7 +33,7 @@ A Python-based command line antivirus solution designed for cybersecurity profes
 ### Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/terminal-antivirus.git
+git clone https://github.com/JYbhavsar12/terminal-antivirus.git
 cd terminal-antivirus
 
 # Install dependencies

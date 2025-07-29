@@ -4,9 +4,6 @@
 [![Code Style: Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 A Python-based command line antivirus solution designed for cybersecurity professionals and enthusiasts. This project demonstrates core antivirus capabilities in a terminal environment, perfect for learning and portfolio development.
-
-![Terminal Antivirus Demo]
-
 ## Features 
 
 - **Multi-engine scanning**
